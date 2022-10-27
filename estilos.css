@@ -1,0 +1,80 @@
+body{
+    background-image: url(img/nebulosa.jpg);
+    margin: auto;
+    text-align: justify;
+    
+}
+#div1{
+    border-radius: 40px;
+    width: 60%;
+    padding-top: 100px;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    
+}
+#div2{
+    
+    border-radius: 40px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border:1px solid #9c9c9c;
+    background-color: rgb(251, 253, 251);
+    text-align: center;
+    
+}
+#div3{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-image: url(img/imagen2.jpg);rgb(31, 230, 91);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border:1px;
+    text-align: center;
+}
+.lgris{
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+.btn1{
+    background-color: rgb(239, 245, 240);
+    color:rgb(233, 83, 83);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+#divconsulta{  
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border:0px solid;
+    
+}
+#divconsulta2{
+    
+    font-size: 21px;
+    padding:5;
+    border-width: thin;
+    
+    text-align: center;
+}
+.imput{
+    font-weight: bold;
+    color:rgba(25, 0, 255, 0.993);
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    
+}
+.btn-primary{
+    
+    font-size: 19px;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
